@@ -119,7 +119,7 @@ Code in this folder references examples in Unit 2.
 | &nbsp; | &nbsp; | &nbsp; |____ layout.ejs  
 | &nbsp; | &nbsp; | &nbsp; |____ partials  
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |____ navigation.ejs  
-|____ `lesson_11`  
+|____ [`lesson_11`](./Unit2/lesson_10/express_template_partials_error-handling/) 
 | &nbsp; |____ express_templates  
 | &nbsp; | &nbsp; |____ main.js  
 | &nbsp; | &nbsp; |____ public  
@@ -133,7 +133,7 @@ Code in this folder references examples in Unit 2.
 | &nbsp; | &nbsp; | &nbsp; |____ layout.ejs  
 | &nbsp; | &nbsp; | &nbsp; |____ partials  
 | &nbsp; | &nbsp; | &nbsp; | &nbsp; |____ navigation.ejs  
-|____ `lesson_12_capstone`
+|____ [`lesson_12`](./Unit2/lesson_10/confetti_cuisine/)
 |____ confetti_cuisine  
 | &nbsp; | &nbsp; |____ main.js  
 | &nbsp; | &nbsp; |____ public  
